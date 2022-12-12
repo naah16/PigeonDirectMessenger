@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/naara/StudioProjects/PigeonDirectMessenger/app/src/main/res/layout/activity_main.xml" value="0.21" />
-        <entry key="..\:/Users/naara/StudioProjects/PigeonDirectMessenger/app/src/main/res/layout/message_card.xml" value="0.16494845360824742" />
+        <entry key="..\:/Users/naara/StudioProjects/PigeonDirectMessenger/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/naara/StudioProjects/PigeonDirectMessenger/app/src/main/res/layout/message_card.xml" value="0.25" />
+        <entry key="..\:/Users/naara/StudioProjects/PigeonDirectMessenger/app/src/main/res/layout/received_card.xml" value="0.33" />
+        <entry key="..\:/Users/naara/StudioProjects/PigeonDirectMessenger/app/src/main/res/layout/send_card.xml" value="0.1" />
       </map>
     </option>
   </component>
